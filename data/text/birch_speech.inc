@@ -1,6 +1,6 @@
 gText_Birch_Welcome::
 	.string "Hey there kid!\p"
-	.string "You're even hotter than I\n"
+	.string "You are even hotter than I\n"
 	.string "expected!\p"
 	.string "Welcome to the world of POKéMON!\p"
 	.string "My name is BIRCH.\p"
@@ -23,26 +23,26 @@ gText_Birch_MainSpeech::
 	.string "at times as passionate lovers.\p"
 	.string "And sometimes, we make them\n"
 	.string "kill each other for fun!\p"
-	.string "But despite our closeness, we don't\n"
+	.string "But despite our closeness, we do not\n"
 	.string "know everything about POKéMON.\p"
 	.string "In fact, there are many, many,\n"
 	.string "many, many, many, many, many\1"
 	.string "secrets surrounding POKéMON.\p"
 	.string "To unravel POKéMON mysteries,\n"
-	.string "I've been undertaking research.\p"
+	.string "I have been undertaking research.\p"
 	.string "And chatting with minors.\p"
 	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "Now, what's under those pants?$"
+	.string "Now, what is under those pants?$"
 
 gText_Birch_BoyOrGirl::
 	.string "Do you have a PENIS\n"
 	.string "Or a VAGINA?$"
 
 gText_Birch_WhatsYourName::
-	.string "That's hot.\n"
-	.string "What's your name, cutie?$"
+	.string "That is hot!\n"
+	.string "What is your name, cutie?$"
 
 gText_Birch_SoItsPlayer::
 	.string "So it's {PLAYER}{KUN}?$"
