@@ -23,7 +23,7 @@ gText_Birch_MainSpeech::
 	.string "at times as passionate lovers.\p"
 	.string "And sometimes, we make them\n"
 	.string "kill each other for fun!\p"
-	.string "But despite our closeness, we do not\n"
+	.string "But despite our closeness, we don't\n"
 	.string "know everything about POKéMON.\p"
 	.string "In fact, there are many, many,\n"
 	.string "many, many, many, many, many\1"
@@ -34,15 +34,15 @@ gText_Birch_MainSpeech::
 	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "Now, what is under those pants?$"
+	.string "Now, what is under your pants?$"
 
 gText_Birch_BoyOrGirl::
 	.string "Do you have a PENIS\n"
 	.string "Or a VAGINA?$"
 
 gText_Birch_WhatsYourName::
-	.string "That is hot!\n"
-	.string "What is your name, cutie?$"
+	.string "That's great!\n"
+	.string "What's your name, cutie?$"
 
 gText_Birch_SoItsPlayer::
 	.string "So it's {PLAYER}{KUN}?$"
