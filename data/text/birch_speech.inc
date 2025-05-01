@@ -19,22 +19,24 @@ gText_Birch_MainSpeech::
 	.string "This world is widely inhabited by\n"
 	.string "creatures known as POKéMON.\p"
 	.string "We humans live alongside POKéMON,\n"
-	.string "at times as friendly playmates, and\n"
-	.string "at times as passionate lovers.\p"
+	.string "at times as friendly playmates,\p"
+	.string "and at times as passionate\n"
+	.string "lovers.\p"
 	.string "And sometimes, we make them\n"
 	.string "kill each other for fun!\p"
 	.string "But despite our closeness, we don't\n"
 	.string "know everything about POKéMON.\p"
 	.string "In fact, there are many, many,\n"
+	.string "many, many, many, many, many\p"
 	.string "many, many, many, many, many\n"
 	.string "secrets surrounding POKéMON.\p"
 	.string "To unravel POKéMON mysteries,\n"
-	.string "I have been undertaking research.\p"
-	.string "And chatting with minors.\p"
+	.string "I have been undertaking research!\p"
+	.string "And chatting with minors...\p"
 	.string "$"
 
 gText_Birch_AndYouAre::
-	.string "Now, what is under your pants?$"
+	.string "Now, what's inside those pants?$"
 
 gText_Birch_BoyOrGirl::
 	.string "Do you have a PENIS\n"
@@ -50,13 +52,13 @@ gText_Birch_SoItsPlayer::
 gText_Birch_YourePlayer::
 	.string "Fuck, yeah!\p"
 	.string "You're {PLAYER}{KUN} who's moving next\n"
-	.string "door to me in LITTLEROOT.\n"
+	.string "door to my house in LITTLEROOT.\p"
 	.string "I get it now!\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
 	.string "Oh shit, I think my wife got home\n"
-	.string "home early.\p"
+	.string "home early from work.\p"
 	.string "She can't find me like this again!\p"
 	.string "How the hell do I turn this\n"
 	.string "fucking thing off...\p"
