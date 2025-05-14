@@ -61,7 +61,7 @@ Follow these steps to build `pokeemerald-expansion`.
 4. Build the project.
 
     ```console
-    make
+    make 
     ```
 5. If everything worked correctly, something very similar to this should be seen.
 
